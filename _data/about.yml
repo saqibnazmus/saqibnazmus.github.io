@@ -1,2 +1,39 @@
 me:
-  description: I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+  name: Nazmus Saqib
+  designation: Computer Vision Researcher
+  image: /assets/images/avatar.jpg
+  description: 
+    - I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+    - My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+  contacts:
+    -
+      label: Location
+      value: Khulna, Dhaka, Bangladesh
+      icon: location-outline
+      link: "#"
+    -
+      label: Email
+      value: example@gmail.com
+      icon: mail-outline
+      link: "mailto:example@gmail.com"
+    -
+      label: phone
+      value: +880 1521 308198
+      icon: phone-portrait-outline
+      link: "tel:+8801521308198"
+
+  socials:
+    - 
+      link: https://facebook.com
+      icon: logo-facebook
+    - 
+      link: https://twitter.com/tweeter
+      icon: logo-twitter
+    - 
+      link: https://www.linkedin.com/
+      icon: logo-linkedin
+    - 
+      link: https://scholar.google.com
+      icon: school
+    
+

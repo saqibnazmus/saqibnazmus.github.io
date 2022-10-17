@@ -3,9 +3,48 @@
         <h2 class="h2 article-title">Resume</h2>
     </header>
 
-    {% include publications.html %}
+    {% for section in site.data.resume.sections %}
+    <section class="timeline">
+
+        <div class="title-wrapper">
+            <div class="icon-box">
+                <ion-icon name="{{ section.icon }}"></ion-icon>
+            </div>
+
+            <h3 class="h3">{{ section.title }}</h3>
+        </div>
+
+        <ol class="timeline-list">
+
+            {% for item in section.items %}
+            <li class="timeline-item">
+
+                <h4 class="h4 timeline-item-title">{{ item.title }}</h4>
+                {% if item.period %}
+                <span>{{ item.period }}</span>
+                {% endif %}
+
+                <p class="timeline-text">
+                    {{ item.text }}
+                </p>
+
+                <div class="timeline-links">
+                    {% for link in item.links %}
+                    <a href="{{ link.link }}"><span>[{{ link.label }}]</span></a>
+                    {% endfor %}
+                </div>
+
+            </li>
+            {% endfor %}
+
+        </ol>
+
+    </section>
+    {% endfor %}
+
+    <!-- {% include publications.html %}
     {% include skills.html %}
-    {% include education.html %}
+    {% include education.html %} -->
 
 
 

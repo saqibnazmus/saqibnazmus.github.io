@@ -551,6 +551,7 @@ main {
 
 .about-text p {
   margin-bottom: 15px;
+  text-align: justify;
 }
 
 
@@ -1499,7 +1500,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box {
-    border-radius: 30px;
+    border-radius: 2rem;
   }
 
   .avatar-box img {
@@ -2155,4 +2156,18 @@ textarea.form-input::-webkit-resizer {
     max-width: 700px;
   }
 
+}
+
+.avatar-box img {
+  border: 0.5rem solid #3a3a3a;
+  border-radius: 2rem;
+}
+
+.timeline-links {
+  display: flex;
+}
+
+.timeline-links a {
+  margin: 0 1rem;
+  margin-left: 0;
 }

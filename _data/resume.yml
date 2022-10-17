@@ -1,0 +1,90 @@
+sections:
+  - 
+    title: Publications and Preprints
+    icon: book-outline
+    items:
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+          - 
+            label: Paper
+            link: https://arxiv.org/pdf/2210.07249.pdf
+          -
+            label: Code and dataset
+            link: https://arxiv.org/pdf/2210.07249.pdf
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+          - 
+            label: Paper
+            link: https://arxiv.org/pdf/2210.07249.pdf
+          -
+            label: Code and dataset
+            link: https://arxiv.org/pdf/2210.07249.pdf
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+          - 
+            label: Paper
+            link: https://arxiv.org/pdf/2210.07249.pdf
+          -
+            label: Code and dataset
+            link: https://arxiv.org/pdf/2210.07249.pdf
+          -
+            label: Video
+            link: https://arxiv.org/pdf/2210.07249.pdf
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+          - 
+            label: Paper
+            link: https://arxiv.org/pdf/2210.07249.pdf
+          -
+            label: Code
+            link: https://arxiv.org/pdf/2210.07249.pdf
+          -
+            label: Dataset
+            link: https://arxiv.org/pdf/2210.07249.pdf
+  - 
+    title: Skills
+    icon: book-outline
+    items:
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+
+      -
+        title: Long enough publication title to impress a professor
+        text: so many highly reputated author names goes here including yours.
+        links: 
+  - 
+    title: Education
+    icon: book-outline
+    items:
+      -
+        title: Name of University
+        period: 2012 - 20016
+        text: BSc In Computer Science
+        links: 
+
+      -
+        title: Name of College
+        period: 2012 - 20016
+        text: BSc In Computer Science
+        links: 
+
+      -
+        title: Name of School
+        period: 2012 - 20016
+        text: BSc In Computer Science
+        links: 
