@@ -4,12 +4,12 @@ sections:
     icon: book-outline
     items:
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
+        title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation.
+        text: An explainable AI (XAI) method that indroduces the Global Guidance Map for explaining model prediction.  
         links: 
           - 
             label: Paper
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: https://doi.org/10.3390/s22176516
           -
             label: Code and dataset
             link: https://arxiv.org/pdf/2210.07249.pdf
