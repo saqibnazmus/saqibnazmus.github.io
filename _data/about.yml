@@ -4,7 +4,7 @@ me:
   image: /assets/images/avatar.jpg
   description: 
     - I've currently completed the Masters degree in Computer Engineering at Chosun University, advised by Prof. Ho Yub Jung. Also, I'm employed as a Graduate Research Assistant at Computer Vision Lab of Chosun University.    
-    - My resreach interest include computer vision, self-supervised learning in low-level vision tasks, biomedical imaging, and explainable-AI (XAI). 
+    - My resreach interests include computer vision, self-supervised learning in low-level vision tasks, biomedical imaging, and explainable-AI (XAI). 
   contacts:
     -
       label: Location
