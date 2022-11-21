@@ -1,14 +1,14 @@
 me:
   name: Nazmus Saqib
-  designation: Computer Vision Researcher
+  designation: Masters Student, Chosun University. 
   image: /assets/images/avatar.jpg
   description: 
-    - I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-    - My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+    - I've currently completed the Masters degree in Computer Engineering at Chosun University, advised by Prof. Ho Yub Jung. Also, I'm employed as a Graduate Research Assistant at Computer Vision Lab of Chosun University.    
+    - My resreach interest include computer vision, self-supervised learning in low-level vision tasks, biomedical imaging, and explainable-AI (XAI). 
   contacts:
     -
       label: Location
-      value: Khulna, Dhaka, Bangladesh
+      value: Gwangju, South Korea.
       icon: location-outline
       link: "#"
     -
@@ -24,16 +24,16 @@ me:
 
   socials:
     - 
-      link: https://facebook.com
+      link: https://www.facebook.com/saqib1420
       icon: logo-facebook
     - 
-      link: https://twitter.com/tweeter
+      link: https://twitter.com/NazmusSaqib1
       icon: logo-twitter
     - 
-      link: https://www.linkedin.com/
+      link: https://www.linkedin.com/in/nazmus-saqib-a6a00b12a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BijZmQ%2F%2F7ReGKKWu5fXZjsw%3D%3D
       icon: logo-linkedin
     - 
-      link: https://scholar.google.com
+      link: https://scholar.google.com/citations?hl=en&user=nGSsiD8AAAAJ
       icon: school
     
 
