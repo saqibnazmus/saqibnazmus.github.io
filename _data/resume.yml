@@ -4,51 +4,43 @@ sections:
     icon: book-outline
     items:
       -
-        title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation.
-        text: An explainable AI (XAI) method that indroduces the Global Guidance Map for explaining model prediction.  
+        title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
+        text: An explainable AI (XAI) method that introduces the Global Guidance Map for explaining model prediction.  
         links: 
           - 
             label: Paper
             link: https://doi.org/10.3390/s22176516
           -
             label: Code and dataset
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: https://github.com/saqibnazmus/Guidance_CAM
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
+        title: Denoising Single Images by Feature Ensemble Revisited
+        text: A model-based supervised denoising method that revisits ensemble strategy.
         links: 
           - 
             label: Paper
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: https://doi.org/10.3390/s22187080
           -
             label: Code and dataset
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: https://github.com/saqibnazmus/denoising_ensemble
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
+        title: Semi-supervised atmospheric component learning in low-light image problem
+        text: A semi-supervised method that learns the atmospheric component based on haze-distribution model for low-light enhancement.
         links: 
           - 
             label: Paper
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: https://arxiv.org/abs/2204.07546
           -
             label: Code and dataset
-            link: https://arxiv.org/pdf/2210.07249.pdf
-          -
-            label: Video
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: https://github.com/saqibnazmus/lowlight_semi
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
+        title: An Improved Adaptive Optimization Technique for Image Classification
+        text: A novel optimizer (extension of ADAM) that improves the classification performance. 
         links: 
           - 
             label: Paper
-            link: https://arxiv.org/pdf/2210.07249.pdf
-          -
-            label: Code
-            link: https://arxiv.org/pdf/2210.07249.pdf
-          -
-            label: Dataset
-            link: https://arxiv.org/pdf/2210.07249.pdf
+            link: http://dx.doi.org/10.1109/ICIEVicIVPR48672.2020.9306620
+ 
   - 
     title: Skills
     icon: book-outline
@@ -72,19 +64,26 @@ sections:
     icon: book-outline
     items:
       -
-        title: Name of University
-        period: 2012 - 20016
-        text: BSc In Computer Science
+        title: Chosun University, Gwangju, South Korea. 
+        period: 2021-2022
+        Degree: Masters in Science
+        text: Department of Computer Engineering.
         links: 
 
       -
-        title: Name of College
-        period: 2012 - 20016
-        text: BSc In Computer Science
+        title: Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh.
+        period: 2012 - 2018
+        Degree: Bachelor of Science
+        text: Department of Electronics & COmmunication Engineering.
         links: 
 
       -
-        title: Name of School
-        period: 2012 - 20016
-        text: BSc In Computer Science
+        title: Govt. M. M. City College, Khulna, Bangladesh.
+        period: 2010-2012
+        text: Higher Secondary (Science).
+        links: 
+      -
+        title: Khulna Zilla School, Khulna, Bangladesh.
+        period: 2010
+        text:  Secondary (Science).
         links: 
