@@ -54,24 +54,26 @@ sections:
     items:
       -
         title: Programming Language
-        text:
-        link:
-        -
-          title: C++
-          text: Face detection and recognition project
-          link: https://github.com/saqibnazmus/Face_project
-        -
-          title: Python
-          text:
-          link:
+        text: C++, Python
+        links: 
       -
-        title: Programming Framework
+        title: Frameworks
         text:  PyTorch, Keras-Tensorflow.
-        link:
+        links:
       -
         title: Others
         text: Latex, Word, Excel.
-        link:
+        links:
+  - 
+    - 
+    title: Projects
+    icon: book-outline
+    items:
+      -
+        title: Face recognition project
+        text: A face detection and recognition project on C++ language
+        links: https://github.com/saqibnazmus/Face_project
+
   - 
     title: Education
     icon: book-outline
