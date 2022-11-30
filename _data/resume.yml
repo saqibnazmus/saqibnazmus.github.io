@@ -56,12 +56,11 @@ sections:
 
       -
         title: Programming Framework
-        text:  PyTorch, Keras-Tensorflow
+        text:  PyTorch, Keras-Tensorflow.
 
       -
         title: Others
-        text: Latex, Word, Excel
-        links: 
+        text: Latex, Word, Excel.
   - 
     title: Education
     icon: book-outline
