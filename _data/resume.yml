@@ -46,18 +46,21 @@ sections:
     icon: book-outline
     items:
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
-        links: 
+        title: Programming Language
+        -
+          label: C++
+          text: Face detection and recognition project
+          link: https://github.com/saqibnazmus/Face_project
+        -
+          label: Python
 
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
-        links: 
+        title: Programming Framework
+        text:  PyTorch, Keras-Tensorflow
 
       -
-        title: Long enough publication title to impress a professor
-        text: so many highly reputated author names goes here including yours.
+        title: Others
+        text: Latex, Word, Excel
         links: 
   - 
     title: Education
