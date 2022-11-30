@@ -71,7 +71,10 @@ sections:
       -
         title: Face recognition project
         text: A face detection and recognition project on C++ language
-        links: https://github.com/saqibnazmus/Face_project
+        links: 
+          -
+            label: Code
+            link: https://github.com/saqibnazmus/Face_project
 
   - 
     title: Education
