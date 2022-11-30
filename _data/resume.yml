@@ -40,6 +40,13 @@ sections:
           - 
             label: Paper
             link: http://dx.doi.org/10.1109/ICIEVicIVPR48672.2020.9306620
+      -
+        title: Image Classification using DNN with an Improved Optimizer
+        text: Improvement of MNIST classification with an imporved optimizer
+        links:
+          -
+            label: Paper
+            link: https://ieeexplore.ieee.org/abstract/document/9230585
  
   - 
     title: Skills
@@ -48,7 +55,7 @@ sections:
       -
         title: Programming Language
         -
-          label: C++
+          title: C++
           text: Face detection and recognition project
           link: https://github.com/saqibnazmus/Face_project
         -
