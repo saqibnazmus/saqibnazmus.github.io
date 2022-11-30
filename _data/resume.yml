@@ -55,17 +55,16 @@ sections:
       -
         title: Programming Language
         text: C++, Python
-        links: 
+        link: 
       -
         title: Frameworks
         text:  PyTorch, Keras-Tensorflow.
-        links:
+        link:
       -
         title: Others
         text: Latex, Word, Excel.
-        links:
+        link:
   - 
-    - 
     title: Projects
     icon: book-outline
     items:
