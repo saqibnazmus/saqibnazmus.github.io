@@ -39,14 +39,15 @@ sections:
       -
         title: An Improved Adaptive Optimization Technique for Image Classification
         text:  <b> Nazmus Saqib </b>, Fatema Tuz Zohra <br/>
-               <i>in2020 Joint 9th International Conference on Informatics, Electronics & Vision (ICIEV) and 2020 4th International Conference on Imaging, Vision & Pattern Recognition (icIVPR) IEEE, 2020, pages 1–6.53 <i/>
+               <i>in2020 Joint 9th International Conference on Informatics, Electronics & Vision (ICIEV) and 2020 4th International Conference on Imaging,
+                Vision & Pattern Recognition (icIVPR) IEEE, 2020, pages 1–6.53 </i>
         links: 
           - 
             label: Paper
             link: http://dx.doi.org/10.1109/ICIEVicIVPR48672.2020.9306620
       -
         title: Image Classification using DNN with an Improved Optimizer
-        text: <b> Nazmus Saqib </b>, G.M. Rafiquzzaman. <br/>
+        text: <b> Nazmus Saqib </b>, G.M. Rafiquzzaman <br/>
               <i> 2020 IEEE Region 10 Symposium (TENSYMP), 31-35. </i>
         links: 
           -
