@@ -5,7 +5,8 @@ sections:
     items:
       -
         title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
-        text: An explainable AI (XAI) method that introduces the Global Guidance Map for explaining model prediction.  
+        text: Masud An Nur Islam Fahim, ** Nazmus Saqib **, Shafkat Khan Siam, Ho Yub Jung \
+              Sensors, jourvol 22, number 17, page 6516, 2022.
         links: 
           - 
             label: Paper
