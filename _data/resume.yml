@@ -5,7 +5,7 @@ sections:
     items:
       -
         title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
-        text: Masud An Nur Islam Fahim, ** Nazmus Saqib **, Shafkat Khan Siam, Ho Yub Jung \
+        text: Masud An Nur Islam Fahim, ** Nazmus Saqib **, Shafkat Khan Siam, Ho Yub Jung <br/>
               Sensors, jourvol 22, number 17, page 6516, 2022.
         links: 
           - 
