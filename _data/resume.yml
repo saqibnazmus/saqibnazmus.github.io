@@ -27,7 +27,7 @@ sections:
             link: https://github.com/saqibnazmus/denoising_ensemble
       -
         title: Semi-supervised atmospheric component learning in low-light image problem
-        text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
+        text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Ho Yub Jung <br/>
               <i> arXiv preprint arXiv:2204.07546, 2022. </i>
         links: 
           - 
