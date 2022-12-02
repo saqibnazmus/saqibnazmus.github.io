@@ -38,15 +38,17 @@ sections:
             link: https://github.com/saqibnazmus/lowlight_semi
       -
         title: An Improved Adaptive Optimization Technique for Image Classification
-        text: A novel optimizer (extension of ADAM) that improves the classification performance. 
+        text:  <b> Nazmus Saqib </b>, Fatema Tuz Zohra <br/>
+               <i>in2020 Joint 9th International Conference on Informatics, Electronics & Vision (ICIEV) and 2020 4th International Conference on Imaging, Vision & Pattern Recognition (icIVPR) IEEE, 2020, pages 1–6.53 <i/>
         links: 
           - 
             label: Paper
             link: http://dx.doi.org/10.1109/ICIEVicIVPR48672.2020.9306620
       -
         title: Image Classification using DNN with an Improved Optimizer
-        text: Improvement of MNIST classification with an imporved optimizer
-        links:
+        text: <b> Nazmus Saqib </b>, G.M. Rafiquzzaman. <br/>
+              <i> 2020 IEEE Region 10 Symposium (TENSYMP), 31-35. </i>
+        links: 
           -
             label: Paper
             link: https://ieeexplore.ieee.org/abstract/document/9230585
