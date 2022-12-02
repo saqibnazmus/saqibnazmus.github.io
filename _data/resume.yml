@@ -6,7 +6,7 @@ sections:
       -
         title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
         text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
-              Sensors, jourvol 22, number 17, page 6516, 2022.
+              <i>Sensors, journal volume 22, number 17, page 6516, 2022.</i>
         links: 
           - 
             label: Paper
@@ -16,7 +16,8 @@ sections:
             link: https://github.com/saqibnazmus/Guidance_CAM
       -
         title: Denoising Single Images by Feature Ensemble Revisited
-        text: A model-based supervised denoising method that revisits ensemble strategy.
+        text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
+              <i>Sensors, journal volume 22, number 18, page 7080, 2022.</i>
         links: 
           - 
             label: Paper
@@ -26,7 +27,8 @@ sections:
             link: https://github.com/saqibnazmus/denoising_ensemble
       -
         title: Semi-supervised atmospheric component learning in low-light image problem
-        text: A semi-supervised method that learns the atmospheric component based on haze-distribution model for low-light enhancement.
+        text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
+              <i> arXiv preprint arXiv:2204.07546, 2022. </i>
         links: 
           - 
             label: Paper
