@@ -81,6 +81,13 @@ sections:
           -
             label: Code
             link: https://github.com/saqibnazmus/Face_project
+      -
+        title: Fingerprint project
+        text: LivDet competetion of fingerprint spoof detection
+        links:
+          -
+            label: Code
+            link: 
 
   - 
     title: Education
