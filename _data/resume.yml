@@ -87,7 +87,7 @@ sections:
         links:
           -
             label: Code
-            link: 
+            link: https://github.com/chosun-cvlab/cascademixer_fingerprint
 
   - 
     title: Education
