@@ -3,10 +3,8 @@ me:
   designation: Researcher <br/> Visual Graphics & Computing Lab <br/> Jeju National University, South Korea. 
   image: avatar_1.jpg
   description: 
-    - I am now enrolled as a Researcher of Visual Graphics and Computing Lab at Jeju National University, South Korea.
-    - I've currently completed the Masters degree in Computer Engineering at Chosun University, advised by Prof. Ho Yub Jung. 
-    - Also, I'm employed as a Graduate Research Assistant at Computer Vision Lab of Chosun University.    
-    - My resreach interests include computer vision, self-supervised learning in low-level vision tasks, biomedical imaging, and explainable-AI (XAI). 
+    - I am now enrolled as a Researcher of Visual Graphics and Computing Lab at Jeju National University, South Korea.I've currently completed the Masters degree in Computer Engineering at Chosun University, advised by Prof. Ho Yub Jung. Also, I'm employed as a Graduate Research Assistant at Computer Vision Lab of Chosun University.    
+    - My resreach interests include 2D and 3D Computer Vision . 
   contacts:
     -
       label: Location
