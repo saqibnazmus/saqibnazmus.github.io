@@ -10,7 +10,7 @@ me:
   contacts:
     -
       label: Location
-      value: Gwangju, South Korea.
+      value: Jeju-si, South Korea.
       icon: location-outline
       link: "#"
     -
@@ -20,7 +20,7 @@ me:
       link: "mailto:nsaqib1995@gmail.com"
     -
       label: phone
-      value: +8801766750740
+      value: 010-6499-5240
       icon: phone-portrait-outline
       link: "tel:01766750740"
 
