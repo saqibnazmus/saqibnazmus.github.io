@@ -1,7 +1,7 @@
 me:
   name: Nazmus Saqib
   designation: Graduate Research Assistant <br/> Computer Vision Lab <br/> Chosun University, South Korea. 
-  image: /assets/js/avatar.jpg
+  image: avatar_1.jpg
   description: 
     - I've currently completed the Masters degree in Computer Engineering at Chosun University, advised by Prof. Ho Yub Jung. Also, I'm employed as a Graduate Research Assistant at Computer Vision Lab of Chosun University.    
     - My resreach interests include computer vision, self-supervised learning in low-level vision tasks, biomedical imaging, and explainable-AI (XAI). 
