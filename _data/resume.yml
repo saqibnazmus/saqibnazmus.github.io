@@ -12,7 +12,18 @@ sections:
             link: https://stam-zero.github.io/
           -
             label: Code and dataset
-            link: https://github.com/saqibnazmus/multiinference_SSD
+            link: 
+        
+      -
+        title: CasF A cascaded feature fusion CNN for fingerprint liveness detection
+        text: <i>Under review</i>
+        links:
+          -
+            label: Preprint(Under review)
+            link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nGSsiD8AAAAJ&citation_for_view=nGSsiD8AAAAJ:LkGwnXOMwfcC
+          -
+            label: Code and dataset
+            link: https://github.com/chosun-cvlab/cascademixer_fingerprint
       -
         title: Multi-stage Inference Strategy for Self-supervised Denoising
         text: <i>Master Thesis</i>
