@@ -4,29 +4,6 @@ sections:
     icon: book-outline
     items:
       -
-        title: STAM: Zero-shot Style Transfer using Diffusion Model via Attention Modulation
-        text: <i>CVPR 2025</i>
-        links:
-          -
-            label: Paper
-            link:           
-          -
-            label: Website
-            link: https://stam-zero.github.io/
-          -
-            label: 
-            link:     
-      -
-        title: CasF: A cascaded feature fusion CNN for fingerprint liveness detection
-        text: <i>Under review</i>
-        links:
-          -
-            label: Paper
-            link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nGSsiD8AAAAJ&citation_for_view=nGSsiD8AAAAJ:LkGwnXOMwfcC
-          -
-            label: Code and dataset
-            link: https://github.com/saqibnazmus/multiinference_SSD
-      -
         title: Multi-stage Inference Strategy for Self-supervised Denoising
         text: <i>Master Thesis</i>
         links:
