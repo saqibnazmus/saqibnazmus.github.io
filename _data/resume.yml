@@ -14,6 +14,16 @@ sections:
             label: Code and dataset
             link: https://github.com/saqibnazmus/multiinference_SSD
       -
+        title: Multi-stage Inference Strategy for Self-supervised Denoising
+        text: <i>Master Thesis</i>
+        links:
+          -
+            label: Paper
+            link: https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=7d33995adfe4fd41ffe0bdc3ef48d419
+          -
+            label: Code and dataset
+            link: https://github.com/saqibnazmus/multiinference_SSD
+      -
         title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
         text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
               <i>Sensors, journal volume 22, number 17, page 6516, 2022.</i>
