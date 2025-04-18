@@ -4,12 +4,12 @@ sections:
     icon: book-outline
     items:
       -
-        title: Multi-stage Inference Strategy for Self-supervised Denoising
-        text: <i>Master Thesis</i>
+        title: STAM: Zero-shot Style Transfer using Diffusion Model via Attention Modulation
+        text: <i>CVPR 2025</i>
         links:
           -
-            label: Paper
-            link: https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=7d33995adfe4fd41ffe0bdc3ef48d419
+            label: Website
+            link: https://stam-zero.github.io/
           -
             label: Code and dataset
             link: https://github.com/saqibnazmus/multiinference_SSD
