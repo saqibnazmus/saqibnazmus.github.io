@@ -86,14 +86,6 @@ sections:
           -
             label: Paper
             link: https://ieeexplore.ieee.org/abstract/document/9230585
-      -
-         title: Regional Power Demand Forecasting Using BiLSTM and ConvBiLSTM Models for Sustainable Energy Management
-         text: <b> Nazmus Saqib </b>, G.M. Rafiquzzaman <br/>
-              <i> 2024 International Conference on Engineering and Emerging Technologies (ICEET) </i>
-         links: 
-          -
-            label: Paper
-            link: https://ieeexplore.ieee.org/abstract/document/9230585
  
   - 
     title: Skills
