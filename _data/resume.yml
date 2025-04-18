@@ -4,24 +4,27 @@ sections:
     icon: book-outline
     items:
       -
-        - title: STAM Zero-shot Style Transfer using Diffusion Model via Attention Modulation
-        text: |
-          Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung  
-          <i>The IEEE CVF Computer Vision and Pattern Recognition Conference (CVPR 2025).</i>
-        links:
-          - label: Website
-            link: https://stam-zero.github.io/
-          - label: Code and dataset
-            link:
+        title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
+        text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
+              <i>Sensors, journal volume 22, number 17, page 6516, 2022.</i>
+        links: 
+          - 
+            label: Paper
+            link: https://doi.org/10.3390/s22176516
+          -
+            label: Code and dataset
+            link: https://github.com/saqibnazmus/Guidance_CAM
       -
-        title: CasF A cascaded feature fusion CNN for fingerprint liveness detection
-        text: <b> Nazmus Saqib </b>, Jihun Kang, Soo Kyun Kim, Joon-Min Gil
-        subtext: <i>Under review</i>
-        links:
-          - label: Preprint(Under review)
-            link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nGSsiD8AAAAJ&citation_for_view=nGSsiD8AAAAJ:LkGwnXOMwfcC
-          - label: Code and dataset
-            link: https://github.com/chosun-cvlab/cascademixer_fingerprint
+        title: Rethinking Gradient Weight’s Influence over Saliency Map Estimation
+        text: Masud An Nur Islam Fahim, <b> Nazmus Saqib </b>, Shafkat Khan Siam, Ho Yub Jung <br/>
+              <i>Sensors, journal volume 22, number 17, page 6516, 2022.</i>
+        links: 
+          - 
+            label: Paper
+            link: https://doi.org/10.3390/s22176516
+          -
+            label: Code and dataset
+            link: https://github.com/saqibnazmus/Guidance_CAM
       -
         title: Multi-stage Inference Strategy for Self-supervised Denoising
         text: <i>Master Thesis</i>
