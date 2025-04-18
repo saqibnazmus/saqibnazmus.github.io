@@ -3,7 +3,12 @@ me:
   designation: Researcher <br/> Intelligent Computing Lab <br/> Jeju National University, South Korea. 
   image: avatar_1.jpg
   description: 
-    - I am currently a researcher at the Visual Graphics and Computing Lab under the supervision of Professor Joon-Min Gil at Jeju National University, South Korea. I hold a Master’s degree in Computer Engineering from Chosun University, South Korea, and am also employed as a Graduate Research Assistant at the Computer Vision Lab of Chosun University. My research interests lie at the intersection of Deep Neural Network (DNN) modeling, inverse problems, and generative artificial intelligence (AI). Through my work, I aim to explore innovative solutions in these domains, contributing to the advancement of both theoretical and applied AI techniques.    - My resreach interests include 2D and 3D Computer Vision . 
+    - I am currently a researcher at the Visual Graphics and Computing Lab under the supervision of Professor Joon-Min Gil 
+    at Jeju National University, South Korea. I hold a Master’s degree in Computer Engineering from Chosun University, South Korea, 
+    and am also employed as a Graduate Research Assistant at the Computer Vision Lab of Chosun University. My research interests lie
+    at the intersection of Deep Neural Network (DNN) modeling, inverse problems, and generative artificial intelligence (AI). 
+    Through my work, I aim to explore innovative solutions in these domains, contributing to the advancement of both theoretical
+    and applied AI techniques.
   contacts:
     -
       label: Location
